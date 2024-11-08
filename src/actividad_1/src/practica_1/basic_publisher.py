@@ -19,8 +19,8 @@ def publish():
     while not rospy.is_shutdown():
         # Pedir input numérico al usuario.
         msg_data = int(input("Ingrese el valor a publicar: "))
-        msg = Int32()
         # Transformar input a tipo Int32.
+        msg = Int32()
         msg.data = msg_data
         # Publicar
         pub.publish(msg)
