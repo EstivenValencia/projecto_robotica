@@ -1,6 +1,7 @@
 # Robótica y Automatización Inteligente - Entorno de desarrollo
 
-Este repositorio proporciona un entorno de trabajo basado en ROS (Robot Operating System) para la asignatura de Robótica y Automatización Inteligente del Máster de Computación y Sistemas Inteligentes en la Universidad de Deusto. El entorno está empaquetado en contenedores Docker para asegurar la portabilidad y facilidad de uso.
+Este repositorio proporciona un entorno de trabajo basado en ROS (Robot Operating System) para la asignatura de Robótica y Automatización Inteligente del Máster de Computación y Sistemas Inteligentes en la Universidad de Deusto. El entorno está empaquetado en contenedores Docker para asegurar la portabilidad y facilidad 
+de uso.
 
 ## Herramientas Utilizadas
 

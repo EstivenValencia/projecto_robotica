@@ -1,0 +1,8 @@
+prefix=/home/laboratorio/ros_workspace/devel/.private/paquete_practica1
+
+Name: paquete_practica1
+Description: Description of paquete_practica1
+Version: 0.0.0
+Cflags: -I/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

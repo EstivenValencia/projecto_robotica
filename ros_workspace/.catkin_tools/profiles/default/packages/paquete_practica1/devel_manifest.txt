@@ -1,0 +1,20 @@
+paquete_practica1
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/cmake.lock /home/laboratorio/ros_workspace/devel/./cmake.lock
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/roseus/ros/paquete_practica1/manifest.l /home/laboratorio/ros_workspace/devel/share/roseus/ros/paquete_practica1/manifest.l
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/roseus/ros/paquete_practica1/msg/FloatPose.l /home/laboratorio/ros_workspace/devel/share/roseus/ros/paquete_practica1/msg/FloatPose.l
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/gennodejs/ros/paquete_practica1/_index.js /home/laboratorio/ros_workspace/devel/share/gennodejs/ros/paquete_practica1/_index.js
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/gennodejs/ros/paquete_practica1/msg/_index.js /home/laboratorio/ros_workspace/devel/share/gennodejs/ros/paquete_practica1/msg/_index.js
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/gennodejs/ros/paquete_practica1/msg/FloatPose.js /home/laboratorio/ros_workspace/devel/share/gennodejs/ros/paquete_practica1/msg/FloatPose.js
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/paquete_practica1/cmake/paquete_practica1Config.cmake /home/laboratorio/ros_workspace/devel/share/paquete_practica1/cmake/paquete_practica1Config.cmake
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/paquete_practica1/cmake/paquete_practica1-msg-extras.cmake /home/laboratorio/ros_workspace/devel/share/paquete_practica1/cmake/paquete_practica1-msg-extras.cmake
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/paquete_practica1/cmake/paquete_practica1Config-version.cmake /home/laboratorio/ros_workspace/devel/share/paquete_practica1/cmake/paquete_practica1Config-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/paquete_practica1/cmake/paquete_practica1-msg-paths.cmake /home/laboratorio/ros_workspace/devel/share/paquete_practica1/cmake/paquete_practica1-msg-paths.cmake
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/common-lisp/ros/paquete_practica1/msg/_package_FloatPose.lisp /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/paquete_practica1/msg/_package_FloatPose.lisp
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/common-lisp/ros/paquete_practica1/msg/_package.lisp /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/paquete_practica1/msg/_package.lisp
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/common-lisp/ros/paquete_practica1/msg/FloatPose.lisp /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/paquete_practica1/msg/FloatPose.lisp
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/common-lisp/ros/paquete_practica1/msg/paquete_practica1-msg.asd /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/paquete_practica1/msg/paquete_practica1-msg.asd
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/include/paquete_practica1/FloatPose.h /home/laboratorio/ros_workspace/devel/include/paquete_practica1/FloatPose.h
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/lib/pkgconfig/paquete_practica1.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/paquete_practica1.pc
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/lib/python3/dist-packages/paquete_practica1/__init__.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/paquete_practica1/__init__.py
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/lib/python3/dist-packages/paquete_practica1/msg/_FloatPose.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/paquete_practica1/msg/_FloatPose.py
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/lib/python3/dist-packages/paquete_practica1/msg/__init__.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/paquete_practica1/msg/__init__.py
