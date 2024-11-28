@@ -1,1 +1,0 @@
-/home/laboratorio/ros_workspace/devel/.private/actividad_1/lib/pkgconfig/actividad_1.pc

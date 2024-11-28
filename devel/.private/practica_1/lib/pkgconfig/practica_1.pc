@@ -1,8 +1,0 @@
-prefix=/home/laboratorio/ros_workspace/devel/.private/practica_1
-
-Name: practica_1
-Description: Description of practica_1
-Version: 0.0.0
-Cflags: -I/home/laboratorio/ros_workspace/devel/.private/practica_1/include
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,1 +1,0 @@
-/home/laboratorio/ros_workspace/devel/.private/actividad_1/share/roseus/ros/actividad_1/msg/Floor.l

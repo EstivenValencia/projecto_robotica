@@ -1,1 +1,0 @@
-/home/laboratorio/ros_workspace/devel/.private/practica_1/share/gennodejs/ros/practica_1/msg/Floor.js
