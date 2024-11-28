@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/actividad_1/share/gennodejs/ros/actividad_1/_index.js

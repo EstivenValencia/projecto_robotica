@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/lib/pkgconfig/paquete_practica1.pc

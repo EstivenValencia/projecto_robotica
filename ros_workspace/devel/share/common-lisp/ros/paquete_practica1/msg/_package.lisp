@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/paquete_practica1/share/common-lisp/ros/paquete_practica1/msg/_package.lisp

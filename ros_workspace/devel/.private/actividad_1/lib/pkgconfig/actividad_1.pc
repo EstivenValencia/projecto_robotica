@@ -1,0 +1,8 @@
+prefix=/home/laboratorio/ros_workspace/devel/.private/actividad_1
+
+Name: actividad_1
+Description: Description of actividad_1
+Version: 0.0.0
+Cflags: -I/home/laboratorio/ros_workspace/devel/.private/actividad_1/include
+Libs: -L${prefix}/lib 
+Requires: 
