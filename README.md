@@ -1,27 +1,37 @@
-# Robotica-Actividad-1
+# Proyecto de Visión por Computador y Robótica
 
-Este repositorio contiene el paquete de ROS **actividad_1** utilizado para la realización de la primera actividad de la asignatura. Dentro de este paquete, hay scripts y archivos de configuración que permiten la interacción y control de un brazo robótico mediante la publicación y suscripción a diferentes topics.
+Este proyecto combina visión por computador y robótica para resolver dos problemas:  
+1. **Shapes**: Detectar piezas geométricas y colocarlas en un tablero.  
+2. **Torres de Hanoi**: Resolver el problema detectando las posiciones iniciales de las piezas.  
 
-## Estructura del Paquete
+## Arquitectura y Comunicación
 
-- **Paquete correspondiente a la entrega**: `actividad_1`
-- **Ubicación de scripts**: `src/actividad_1/src/practica_1`
-- **Carpeta de configuraciones y poses**: `src/actividad_1/src/practica_1/confs_y_poses`
+El sistema está basado en **ROS**, con nodos que se comunican mediante *topics*. Los principales nodos incluyen:  
+- **TakePicture**: Captura imágenes y determina el flujo de procesamiento (Shapes o Hanoi).  
+- **control_robot**: Gestiona los movimientos del brazo robótico.  
+- **Main**: Coordina el flujo activando nodos según el progreso.  
 
-## Scripts
+### Principales *Topics*
+- **/TakeImage**: Indica si es necesario capturar una nueva imagen.  
+- **/CurrentImage**: Contiene la imagen capturada para su procesamiento.  
+- **/PositionSceneryShape/Hanoi**: Transfieren información de las piezas detectadas.  
+- **/MovementToDo** y **/MovementDone**: Manejan las tareas de movimiento del brazo robótico.  
+# Proyecto de Visión por Computador y Robótica
 
-En la carpeta `src/actividad_1/src/practica_1` se encuentran cinco scripts fundamentales para la comunicación y control del brazo robótico:
+Este proyecto combina visión por computador y robótica para resolver dos problemas:  
+1. **Shapes**: Detectar piezas geométricas y colocarlas en un tablero.  
+2. **Torres de Hanoi**: Resolver el problema detectando las posiciones iniciales de las piezas.  
 
-1. **basic_publisher.py**: Publica mensajes de tipo numérico en el topic **consignas** para enviar comandos básicos al brazo robótico. Este script está pensado para realizar acciones sencillas.
+## Arquitectura y Comunicación
 
-2. **basic_subscriber.py**: Suscribe el brazo robótico al topic anterior y recibe datos numéricos, permitiendo que el brazo ejecute acciones basadas en esos datos.
+El sistema está basado en **ROS**, con nodos que se comunican mediante *topics*. Los principales nodos incluyen:  
+- **TakePicture**: Captura imágenes y determina el flujo de procesamiento (Shapes o Hanoi).  
+- **control_robot**: Gestiona los movimientos del brazo robótico.  
+- **Main**: Coordina el flujo activando nodos según el progreso.  
 
-3. **publisher.py**: Publica en diferentes topics información relacionada con la configuración de motores, poses, trayectorias y objetos (en este caso el suelo) para el brazo robótico.
+### Principales *Topics*
+- **/TakeImage**: Indica si es necesario capturar una nueva imagen.  
+- **/CurrentImage**: Contiene la imagen capturada para su procesamiento.  
+- **/PositionSceneryShape/Hanoi**: Transfieren información de las piezas detectadas.  
+- **/MovementToDo** y **/MovementDone**: Manejan las tareas de movimiento del brazo robótico.  
 
-4. **subscriber.py**: Recibe los mensajes publicados en los topics mencionados para ejecutar órdenes específicas en el brazo robótico.
-
-5. **confs_y_poses.py**: Crea dos archivos yaml que contienen una pose y una configuración que se utilizan por los scripts anteriores para mover el brazo robótico.
-
-### Mensaje Personalizado para el Suelo
-
-El paquete también incluye un archivo `.msg` que define el tipo de mensaje personalizado para el **suelo**. En él simplemente se define la estructura del tipo de mensaje.
