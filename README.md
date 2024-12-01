@@ -17,3 +17,7 @@ El sistema está basado en **ROS**, con nodos que se comunican mediante *topics*
 - **/PositionSceneryShape/Hanoi**: Transfieren información de las piezas detectadas.  
 - **/MovementToDo** y **/MovementDone**: Manejan las tareas de movimiento del brazo robótico.  
 
+## Imagen Docker
+
+Debido a que la imagen commit pesa cerca de 12 GB es imposible adjuntarla a este repositorio, por lo que 
+se anexa el link del drive: https://drive.google.com/file/d/1HXVqoR0rxGrfq1wqlXWBblIBJs_JRbuQ/view?usp=sharing
